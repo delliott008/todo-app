@@ -14,3 +14,7 @@ button {
   color: crimson;
 }
 
+li {
+  cursor: pointer;
+}
+
